@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
   gem.files         = `git ls-files`.split("\n")
   gem.name          = "aescrypt"
   gem.require_paths = ["lib"]
-  gem.version       = "1.0.1"
+  gem.version       = "1.1.0"
 
   gem.add_development_dependency "rake"
 end
